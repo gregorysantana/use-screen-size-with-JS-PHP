@@ -5,8 +5,8 @@ With this simple code, you can detect the screen size (both height and width) an
 
 Con este simple codigo, podras detectar el tamaño de pantalla (tanto de altura y ancho) y utilizarlo directamente en PHP.
 
-USO:
+# USO:
 
-# DetectMonitor::Width();
+DetectMonitor::Width();
 
-# DetectMonitor::Height();
+DetectMonitor::Height();
