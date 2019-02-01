@@ -5,5 +5,7 @@ Con este simple codigo, podras detectar el tamaño de pantalla (tanto de altura 
 
 USO:
 
-Alto();
-Ancho();
+DetectMonitor::Width();
+
+DetectMonitor::Height();
+
